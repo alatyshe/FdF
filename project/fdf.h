@@ -15,13 +15,13 @@
 # define WIDTH 1200
 # define HEIGHT 900
 # include <stdio.h>
-# include <mlx.h>
+# include "./miniLibX/mlx.h"
 # include <stdlib.h>
 # include <math.h>
 # include <unistd.h>
 # include <fcntl.h>
 # include <math.h>
-# include "libft/libft.h"
+# include "libft/header/libft.h"
 
 typedef struct	s_color
 {
